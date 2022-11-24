@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 def lps(seq, i, j):
     if (i == j):
         return 1

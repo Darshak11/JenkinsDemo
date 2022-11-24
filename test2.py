@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 import unittest
 from long_palin_sub_seq import lps
 
